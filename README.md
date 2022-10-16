@@ -37,7 +37,7 @@ To use the financial simulations application, simply clone the repository and cr
 
 Upon launching the financial simulations application, you will be able to view the total value of the member's portfolio, along with a projection of what their portfolio will look like in 10+ years. 
 
-<img width="1440" alt="Screen Shot 2022-10-16 at 9 43 07 AM" src="https://user-images.githubusercontent.com/105071493/196047575-321f36fa-c413-40b6-a357-fcaa5d674d2f.png">
+<img width="1440" alt="Screen Shot 2022-10-16 at 9 48 10 AM" src="https://user-images.githubusercontent.com/105071493/196047741-0498dd0a-1123-4c55-bfa9-b56c05e39bf1.png">
 
 <img width="1440" alt="Screen Shot 2022-10-16 at 9 43 54 AM" src="https://user-images.githubusercontent.com/105071493/196047580-995710ce-41be-4085-9d2d-fd7db7a40f76.png">
 

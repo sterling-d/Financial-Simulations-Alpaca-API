@@ -27,6 +27,19 @@ This project leverages python 3.7 with the following packages:
 
 ---
 
+## Installation Guide
+
+Before running the application first install the following dependencies.
+
+```python
+  conda install -c anaconda requests
+  conda install -c jmcmurray json
+  pip install python-dotenv
+  pip install alpaca-trade-api
+```
+
+---
+
 ## Usage
 
 To use the financial simulations application, simply clone the repository and create a new_folder to save your **financial_planning_tools.ipynb** . Navigate to that folder within your terminal, and type the following :

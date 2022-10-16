@@ -11,19 +11,19 @@ This repo displays a prototype banking application that performs two seperate ac
 
 This project leverages python 3.7 with the following packages:
 
-* [os] - 
+* [os] - Creates/ removes directories and retrieves contents from within our folders
 
-* [requests](https://github.com/psf/requests) - 
+* [requests](https://github.com/psf/requests) - Makes an API request 
 
-* [json](https://github.com/nlohmann/json) -
+* [json](https://github.com/nlohmann/json) -  Transfers data from our API that can be translated into text 
 
-* [pandas](https://github.com/pandas-dev/pandas) - 
+* [pandas](https://github.com/pandas-dev/pandas) - Creates DataFrames
 
-* [dotenv](https://github.com/motdotla/dotenv) - 
+* [dotenv](https://github.com/motdotla/dotenv) - Reads key-value pairs from our .env file and sets them as environment variable
 
-* [alpaca_trade_api](https://github.com/alpacahq/alpaca-trade-api-python) - 
+* [alpaca_trade_api](https://github.com/alpacahq/alpaca-trade-api-python) - The API we are using
 
-* [MCForecastTools](https://github.com/Anu86/MCForecastTools) - 
+* [MCForecastTools](https://github.com/Anu86/MCForecastTools) - Creates our Monte Carlo Simulation
 
 
 ---
